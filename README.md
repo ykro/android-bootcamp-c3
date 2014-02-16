@@ -24,4 +24,6 @@ Tasks<br/>
 
 <img src="https://dl.dropboxusercontent.com/u/8418860/android/workshop/checkpoint3_2.png"/>
 
+<img src="https://dl.dropboxusercontent.com/u/8418860/android/workshop/checkpoint3_3.png"/>
+
 
