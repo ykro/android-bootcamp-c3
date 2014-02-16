@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BootcampSW</string>
+    <string name="title_map">Map</string>
+    <string name="title_list">List</string>
+    <string name="title_about">About</string>    
+</resources>
